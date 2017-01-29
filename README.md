@@ -1,2 +1,2 @@
-# Blog
-The Monolog Magaine blog, hosted on GitHub Pages and implemented with Jekyl
+# monolog.com
+The Monolog Magaine blog, hosted on GitHub Pages
